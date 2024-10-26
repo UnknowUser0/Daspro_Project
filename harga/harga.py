@@ -1,0 +1,4 @@
+shell_super=12290
+shell_v_power=13070
+shell_v_power_nitro=13260
+shell_v_power_diesel=13250
